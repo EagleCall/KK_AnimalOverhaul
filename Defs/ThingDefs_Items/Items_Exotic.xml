@@ -2,12 +2,15 @@
 <Defs>
   
 <ThingDef Name="KKAO_HornBase" ParentName="ResourceVerbBase" Abstract="True">
-  <thingCategories>
-      <li>KKAO_HornAntler</li>
+    <thingCategories>
+      <li>Items</li>
     </thingCategories>
     <tradeTags>
-      <li>Exotic</li>
+      <li>ExoticMisc</li>
     </tradeTags>
+    <thingSetMakerTags>
+      <li>AnimalPart</li>
+    </thingSetMakerTags>
 </ThingDef>
 
   <!--=============== Rhino horn ====================-->
@@ -47,6 +50,7 @@
         </capacities>
         <power>8</power>
         <cooldownTime>2.4</cooldownTime>
+		<chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
   </ThingDef>
@@ -88,6 +92,7 @@
         </capacities>
         <power>5</power>
         <cooldownTime>1.8</cooldownTime>
+		<chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
   </ThingDef>
@@ -129,6 +134,7 @@
         </capacities>
         <power>5</power>
         <cooldownTime>2.4</cooldownTime>
+		<chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
   </ThingDef>    
@@ -170,6 +176,7 @@
         </capacities>
         <power>4</power>
         <cooldownTime>2</cooldownTime>
+		<chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
   </ThingDef>
@@ -211,6 +218,7 @@
         </capacities>
         <power>8</power>
         <cooldownTime>2.2</cooldownTime>
+		<chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
   </ThingDef>
@@ -252,6 +260,7 @@
         </capacities>
         <power>3</power>
         <cooldownTime>2.4</cooldownTime>
+		<chanceFactor>0.5</chanceFactor>
       </li>
     </tools>
   </ThingDef>
