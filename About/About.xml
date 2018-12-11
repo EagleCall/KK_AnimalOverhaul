@@ -1,48 +1,63 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
 	<name>Vanilla Animal Overhaul</name>
-	<author>kaptain_kavern</author>
+	<author>kaptain_kavern | Dr_Zhivago</author>
 	<url>https://ludeon.com/forums/index.php?topic=34173.0</url>
 	<targetVersion>1.0.2096</targetVersion>
-	<description>&lt;b&gt;A collection of patches and tweaks regarding animals&lt;/b&gt;
+<description> I have updated this mod further for RimWorld v1.0, upon seeing that Ludeon user "Caffeine Zombie" took the first and largest step to updating.
 
-	&lt;size=24&gt;-= 1.0 - "&lt;b&gt;Konrad Lorenz&lt;/b&gt;  Edition" =-&lt;/size&gt;
-			&lt;i&gt;Focused on animal behavior.&lt;/i&gt; 
+	I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
+	I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
+	I have also included a patch for the mod "AnimalCollabProject" which allows; 
+		black rhinos to be Pack Animals
+		black/wooly rhino and bison horns to be harvested from corpses
 
-	- All bears, Alpacas, Ostrich, Rhinoceros, Cow, Elk, Caribou, Warg and Elephants can now be used as pack animals and will be used by other factions (You need Animal Logic mod for this).
 
-	- Pets sets to follow master while doing fieldwork will now also consider DoctorRescue, ReleasePrisoner, Slaughter/Milk/Shear, Harvest/Cut, Strip/Bury/Haul Corpses and CleanClearSnow as fieldwork.
 
-	- Chinchillas, Rhinoceros, Ostriches, Turkeys, Chickens, Pigs, Cows, Rat, WildBoars, Monkey, Wargs and all wolves are now herd animals.
 
-	- Cats and big Cats are now trainable (up to advanced like dogs) but are harder to train than most other pets (wildness raised from 0.2 to 0.5 for the pet).
+			A collection of patches and tweaks regarding animals
+				-= 1.1 - "Charles Darwin Edition" =-
 
-	- All Bears, Foxes and Big Cats have now a "maxPreyBodySize" attribute up to their relative own body size attribute.
+					Focused on animal mechanics
 
-	- All dogs are now set to be predator (but only for the smallest animals)
+    Cassowaries, Emus, Iguanas, Ostriches, Tortoises, and Turkey can now lay unfertilized eggs
 
-	&lt;size=26&gt;-= 1.1 - "&lt;b&gt;Charles Darwin&lt;/b&gt;  Edition" =-&lt;/size&gt;
-			&lt;i&gt;Focused on animal mechanics.&lt;/i&gt; 
+    Monkeys and domestic Cats had their body-size upped in order for them to be eligible for haul training (from 0.35 to 0.40 for monkeys and from 0.26 to 0.4 for cats)
 
-	- Cassowaries, Emus, Iguanas, Ostriches, Tortoises, and Turkey can now lay unfertilized eggs
+    Elephants can now eat trees and the female elephant will also drop tusks
 
-	- Monkeys and domestic Cats had their body-size upped in order for them to be eligible for haul training (from 0.35 to 0.40 for monkeys and from 0.26 to 0.4 for cats)
+    Caribous, Deers, Elks, Gazelles, Ibexes, and Rhinos will now drop horns/antlers/tusks when butchered. They are considered quite valuable for reselling and can be used as makeshift melee weapon
 
-	- Elephants can now eat trees and the female elephant will also drop tusks
+    Alpacas, Deers, and Ibexes can now be milked. Ibexes produce poor-quality wool now
 
-	- Caribous, Deers, Elks, Gazelles, Ibexes, and Rhinos will now drop horns/antlers/tusks when butchered. They are considered quite valuable for reselling and can be used as makeshift melee weapon
+    Thrumbos can now be sheared (every 50 days) for their high-quality wool
 
-	- Alpacas, Deers, and Ibexes can now be milked. Ibexes produce poor-quality wool now
+				-= 1.0 - "Konrad Lorenz Edition" =-
 
-	- Thrumbos can now be sheared (every 50 days) for their high-quality wool
+					Focused on animal behavior
 
-====================================================================	
+    All bears, Alpacas, Ostrich, Rhinoceros, Cow, Elk, Caribou, Warg and Elephants can now be used as pack animals and will be used by other factions
 
-	&lt;b&gt;A big Thank you to Oblitus&lt;/b&gt; : &lt;i&gt;For "fixing" pack animals to be buyable.&lt;/i&gt; 
+    Pets sets to follow master while doing fieldwork will now also consider DoctorRescue, ReleasePrisoner, Slaughter/Milk/Shear, Harvest/Cut, Strip/Bury/Haul Corpses and CleanClearSnow as fieldwork.
 
-	&lt;b&gt;A big Thank you to Coercion&lt;/b&gt; : &lt;i&gt;For all horns and antlers graphics - Originally made for the TropiCKAPP Rainforest mod.&lt;/i&gt; 
+    Chinchillas, Rhinoceros, Ostriches, Turkeys, Chickens, Pigs, Cows, Rat, WildBoars, Monkey, Wargs and all wolves are now herd animals.
 
-	&lt;b&gt;Also Mehni for pointing me to an error with the changes I made with cats behavior changes&lt;/i&gt; 
+    Cats and big Cats are now trainable (up to advanced like dogs) but are harder to train than most other pets (wildness raised from 0.2 to 0.5 for the pet).
+
+    All Bears, Foxes and Big Cats have now a "maxPreyBodySize" attribute up to their relative own body size attribute.
+
+    All dogs are now set to be predator (but only for the smallest animals)
+
+					-= Thanks/Credits =-
+
+	-A big Thank you to Oblitus : For fixing "pack animals" to be buyable.
+
+	-Most Horns/Antlers graphics were made by Coercion originally for the TropiCKAPP Rainforest mod. The others by DR_Zhivago.
+
+	-Also Mehni for pointing me to an error with the changes I made with cats behavior changes
+	
+	-Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
+
 
 	</description>
 </ModMetaData>
