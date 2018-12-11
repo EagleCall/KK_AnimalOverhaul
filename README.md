@@ -7,7 +7,14 @@
 	- black rhinos to be Pack Animals
 	- black/wooly rhino and bison horns to be harvested from corpses
 
-Original Mod Author's words below:
+My Credits:
+- Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
+- The new horn textures are by Dr_Zhivago.
+
+
+
+
+# Original Mod Author's words below:
 
 A collection of patches and tweaks regarding animals
 
