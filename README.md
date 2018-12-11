@@ -4,8 +4,8 @@
 - I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
 - I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
 - I have also included a patch for the mod "AnimalCollabProject" which allows; 
-	black rhinos to be Pack Animals
-	black/wooly rhino and bison horns to be harvested from corpses
+	- black rhinos to be Pack Animals
+	- black/wooly rhino and bison horns to be harvested from corpses
 
 Original Mod Author's words below:
 
