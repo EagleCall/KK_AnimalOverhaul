@@ -8,8 +8,8 @@
 	- black/wooly rhino and bison horns to be harvested from corpses
 
 My Credits:
+- kaptain_kavern for the original mod.
 - Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
-- The new horn textures are by Dr_Zhivago.
 
 
 
