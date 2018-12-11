@@ -1,3 +1,14 @@
+ I have updated this mod further for RimWorld v1.0, upon seeing that Ludeon user "Caffeine Zombie" took the first and largest step to updating.
+
+# This release will be considered v1.0.2:
+  - I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
+	- I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
+  - I have also included a patch for the mod "AnimalCollabProject" which allows; 
+		black rhinos to be Pack Animals
+    black/wooly rhino and bison horns to be harvested from corpses
+
+
+
 A collection of patches and tweaks regarding animals
 
 # -= 1.1 - "__Charles Darwin__  Edition" =-
