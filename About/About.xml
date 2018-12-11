@@ -6,14 +6,21 @@
 	<targetVersion>1.0.2096</targetVersion>
 <description> I have updated this mod further for RimWorld v1.0, upon seeing that Ludeon user "Caffeine Zombie" took the first and largest step to updating.
 
-	I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
-	I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
-	I have also included a patch for the mod "AnimalCollabProject" which allows; 
-		black rhinos to be Pack Animals
-		black/wooly rhino and bison horns to be harvested from corpses
+	This latest release will be considered v1.0.2:
+
+    I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
+    I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
+    I have also included a patch for the mod "AnimalCollabProject" which allows;
+        black rhinos to be Pack Animals
+        black/wooly rhino and bison horns to be harvested from corpses
+
+My Credits:
+
+    Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
+    The new horn textures are by Dr_Zhivago.
 
 
-
+Original Mod Author's words below:
 
 			A collection of patches and tweaks regarding animals
 				-= 1.1 - "Charles Darwin Edition" =-
@@ -52,11 +59,9 @@
 
 	-A big Thank you to Oblitus : For fixing "pack animals" to be buyable.
 
-	-Most Horns/Antlers graphics were made by Coercion originally for the TropiCKAPP Rainforest mod. The others by DR_Zhivago.
-
-	-Also Mehni for pointing me to an error with the changes I made with cats behavior changes
+	-Most Horns/Antlers graphics were made by Coercion originally for the TropiCKAPP Rainforest mod.
 	
-	-Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
+	-Also Mehni for pointing me to an error with the changes I made with cats behavior changes
 
 
 	</description>
