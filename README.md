@@ -11,8 +11,10 @@ My Credits:
 - kaptain_kavern for the original mod.
 - Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
 
-* [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1588681499)
-* [Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)
+
+[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1588681499)
+
+[Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)
 
 
 
