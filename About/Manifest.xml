@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <version>1.0.2</version>
-    <dependencies>
-        <li>AnimalsLogic</li>
-    </dependencies>
     <incompatibleWith>
         <li>ThrumboExtension</li>
     </incompatibleWith>
+  <suggests>
+    <li>1098354593</li>
+  </suggests>
   <showCrossPromotions>true</showCrossPromotions>
   <manifestUri>https://raw.githubusercontent.com/DrZhivago1/KK_AnimalOverhaul/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/DrZhivago1/KK_AnimalOverhaul/releases/latest</downloadUri>
