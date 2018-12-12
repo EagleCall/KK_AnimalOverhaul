@@ -1,12 +1,5 @@
  I have updated this mod further for RimWorld v1.0, upon seeing that Ludeon user "Caffeine Zombie" took the first and largest step to updating.
-
-# This latest release will be considered v1.0.2:
-- I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
-- I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
-- I have also included a patch for the mod "AnimalCollabProject" which allows; 
-	- black rhinos to be Pack Animals
-	- black/wooly rhino and bison horns to be harvested from corpses
-
+ 
 My Credits:
 - kaptain_kavern for the original mod.
 - Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
@@ -16,7 +9,15 @@ My Credits:
 
 [Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)
 
+# v1.0.3
+- Labradors, Huskies, and Wolves can now be pack animals
 
+# This latest release will be considered v1.0.2:
+- I have updated Thrumbos so they can be pack animals, produce milk, nuzzle, as well as updating the wool features.
+- I have altered the amounts of hay and kibble that can be consumed at once, upping the value to 200 for each.
+- I have also included a patch for the mod "AnimalCollabProject" which allows; 
+	- black rhinos to be Pack Animals
+	- black/wooly rhino and bison horns to be harvested from corpses
 
 # Original Mod Author's words below:
 
