@@ -5,9 +5,8 @@ My Credits:
 - Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
 
 
-[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1588681499)
-
-[Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)
+* _[Link to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1588681499)
+* _[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)
 
 # v1.0.3
 - Labradors, Huskies, and Wolves can now be pack animals
