@@ -161,7 +161,7 @@
 			<packAnimal>true</packAnimal>
 		</value>
 	</Operation>
-	
+
 	<Operation Class="PatchOperationAdd">		<!-- Pack Labrador  -->
 		<xpath>Defs/ThingDef[defName = "LabradorRetriever"]/race</xpath>
 		<value>
@@ -317,9 +317,26 @@
 		</value>
 	</Operation>
 
-	<Operation Class="PatchOperationInsert">		<!-- Milkable and shearable Ibex  -->
-		<xpath>Defs/ThingDef[defName = "Ibex"]/description</xpath>
-		<value>
+	<Operation Class="PatchOperationConditional">		<!-- Milkable and shearable Ibex -->
+		<xpath>Defs/ThingDef[defName = "Ibex"]/comps</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Ibex"]/comps</xpath>
+			<value>
+				<li Class="CompProperties_Milkable">
+					<milkDef>Milk</milkDef>
+					<milkIntervalDays>2</milkIntervalDays>
+					<milkAmount>6</milkAmount>
+				</li>
+				<li Class="CompProperties_Shearable">
+					<woolDef>KKAO_WoolIbex</woolDef>
+					<shearIntervalDays>22</shearIntervalDays>
+					<woolAmount>70</woolAmount>
+				</li>
+			</value>
+		</match>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Ibex"]</xpath>
+			<value>
 			<comps>
 				<li Class="CompProperties_Milkable">
 					<milkDef>Milk</milkDef>
@@ -332,7 +349,8 @@
 					<woolAmount>70</woolAmount>
 				</li>
 			</comps>
-		</value>
+			</value>
+		</nomatch>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">		<!-- switch to modded body for Ibex-->
@@ -389,10 +407,11 @@
 		</value>
 	</Operation>
 
-	<Operation Class="PatchOperationAdd">		<!-- Shearable, Packable, and Milkable Thrumbos -->
-		<xpath>Defs/ThingDef[defName = "Thrumbo"]</xpath>
-		<value>
-			<comps>
+	<Operation Class="PatchOperationConditional">		<!-- Shearable, Packable, and Milkable Thrumbos -->
+		<xpath>Defs/ThingDef[defName = "Thrumbo"]/comps</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName = "Thrumbo"]/comps</xpath>
+			<value>
 				<li Class="CompProperties_Shearable">
 					<woolDef>KKAO_ThrumboWool</woolDef>
 					<shearIntervalDays>50</shearIntervalDays>
@@ -403,8 +422,25 @@
 					<milkIntervalDays>25</milkIntervalDays>
 					<milkAmount>10</milkAmount>
 				</li>
-			</comps>
-		</value>
+			</value>
+		</match>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Thrumbo"]</xpath>
+			<value>
+				<comps>
+					<li Class="CompProperties_Shearable">
+						<woolDef>KKAO_ThrumboWool</woolDef>
+						<shearIntervalDays>50</shearIntervalDays>
+						<woolAmount>200</woolAmount>
+					</li>
+					<li Class="CompProperties_Milkable">
+						<milkDef>KKAO_ThrumboMilk</milkDef>
+						<milkIntervalDays>25</milkIntervalDays>
+						<milkAmount>10</milkAmount>
+					</li>
+				</comps>
+			</value>
+		</nomatch>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
