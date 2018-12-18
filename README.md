@@ -11,7 +11,8 @@ _[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg4
 
 #v1.0.5
 Edit to horn values, decreasing value to:
---Vanilla--
+
+-- Vanilla --
 Rhino: 100
 Gazelle: 20
 Ibex: 20
