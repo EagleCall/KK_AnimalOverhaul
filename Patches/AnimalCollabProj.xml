@@ -49,7 +49,7 @@
                             </graphicData>
                             <equippedAngleOffset>15</equippedAngleOffset>
                             <statBases>
-                                <MarketValue>250</MarketValue>
+                                <MarketValue>50</MarketValue>
                                 <MaxHitPoints>150</MaxHitPoints>
                                 <Mass>1.5</Mass>                                <!-- ElephantTusk's mass = 1.8 -->
                                 <Flammability>1.0</Flammability>
@@ -124,7 +124,7 @@
                             </graphicData>
                             <equippedAngleOffset>-20</equippedAngleOffset>
                             <statBases>
-                                <MarketValue>475</MarketValue>
+                                <MarketValue>125</MarketValue>
                                 <MaxHitPoints>150</MaxHitPoints>
                                 <Mass>1.8</Mass>                                <!-- ElephantTusk's mass = 1.8 -->
                                 <Flammability>1.0</Flammability>
@@ -193,7 +193,7 @@
                             </graphicData>
                             <equippedAngleOffset>-10</equippedAngleOffset>
                             <statBases>
-                                <MarketValue>500</MarketValue>
+                                <MarketValue>150</MarketValue>
                                 <MaxHitPoints>150</MaxHitPoints>
                                 <Mass>2</Mass>                                <!-- ElephantTusk's mass = 1.8 -->
                                 <Flammability>1.0</Flammability>
