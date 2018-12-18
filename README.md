@@ -14,23 +14,23 @@ _[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg4
 Edit to market values, new values are:
 
 --Vanilla Animal Horns--
-    Rhino: 100
-    Gazelle: 20
-    Ibex: 20
-    Deer: 15
-    Elk: 20
-    Caribou: 20
+    - Rhino: 100
+    - Gazelle: 20
+    - Ibex: 20
+    - Deer: 15
+    - Elk: 20
+    - Caribou: 20
 
 --ACP Animal Horns--
-    Black Rhino: 125
-    Whooly Rhino: 150
+    - Black Rhino: 125
+    - Whooly Rhino: 150
 
 --Thrumbo--
-    Milk: 20
-    Wool: 5 (no change)
+    - Milk: 20
+    - Wool: 5 (no change)
 
 --Eggs--
-    All egg values unchanged: 10
+    - All egg values unchanged: 10
 
 # v1.0.4
 Small edit to patches with Ibex and Thrumbo for compatibility with "Giddy Up" mod and other mods editing similar values.
