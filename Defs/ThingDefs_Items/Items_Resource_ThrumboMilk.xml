@@ -13,7 +13,7 @@
     <statBases>
       <Mass>0.5</Mass>
       <Nutrition>1</Nutrition>
-      <MarketValue>75</MarketValue>
+      <MarketValue>20</MarketValue>
       <MaxHitPoints>75</MaxHitPoints>
     </statBases>
     <ingestible>
