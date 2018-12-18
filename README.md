@@ -9,6 +9,23 @@ _[Link to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=15886814
 
 _[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)_
 
+#v1.0.5
+Edit to horn values, decreasing value to:
+--Vanilla--
+Rhino: 100
+Gazelle: 20
+Ibex: 20
+Deer: 15
+Elk: 20
+Caribou: 20
+
+--ACP Animals--
+Black Rhino: 125
+Whooly Rhino: 150
+
+# v1.0.4
+Small edit to patches with Ibex and Thrumbo for compatibility with "Giddy Up" mod and other mods editing similar values.
+
 # v1.0.3
 - Labradors, Huskies, and Wolves can now be pack animals
 
