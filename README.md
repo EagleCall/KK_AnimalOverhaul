@@ -2,6 +2,7 @@ I have updated this mod further for RimWorld v1.0, upon seeing that Ludeon user 
  
 My Credits:
 - kaptain_kavern for the original mod.
+- 🦉 owl for Westerado compatibility
 - Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
 
 
