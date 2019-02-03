@@ -9,6 +9,10 @@ _[Link to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=15886814
 
 _[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)_
 
+# v1.0.6
+- Westerado Compatibility
+- Minor formatting edits
+
 # v1.0.5
 
 Edit to market values, new values are:
