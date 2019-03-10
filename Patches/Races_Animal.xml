@@ -304,17 +304,30 @@
 		</value>
 	</Operation>
 
-	<Operation Class="PatchOperationInsert">		<!-- Milkable Deer  -->
-		<xpath>Defs/ThingDef[defName = "Deer"]/description</xpath>
-		<value>
-			<comps>
+	<Operation Class="PatchOperationConditional">		<!-- Milkable Deer  -->
+		<xpath>Defs/ThingDef[defName="Chinchilla"]/comps</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Deer"]/comps</xpath>
+			<value>
 				<li Class="CompProperties_Milkable">
 					<milkDef>Milk</milkDef>
 					<milkIntervalDays>2</milkIntervalDays>
 					<milkAmount>6</milkAmount>
 				</li>
-			</comps>
-		</value>
+			</value>
+		</match>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/ThingDef[defName="Deer"]</xpath>
+			<value>
+				<comps>
+					<li Class="CompProperties_Milkable">
+						<milkDef>Milk</milkDef>
+						<milkIntervalDays>2</milkIntervalDays>
+						<milkAmount>6</milkAmount>
+					</li>
+				</comps>
+			</value>
+		</nomatch>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">		<!-- switch to modded body for deer-->
