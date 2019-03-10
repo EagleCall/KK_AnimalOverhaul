@@ -305,7 +305,7 @@
 	</Operation>
 
 	<Operation Class="PatchOperationConditional">		<!-- Milkable Deer  -->
-		<xpath>Defs/ThingDef[defName="Chinchilla"]/comps</xpath>
+		<xpath>Defs/ThingDef[defName="Deer"]/comps</xpath>
 		<match Class="PatchOperationAdd">
 			<xpath>Defs/ThingDef[defName="Deer"]/comps</xpath>
 			<value>
