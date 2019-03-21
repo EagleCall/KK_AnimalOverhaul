@@ -15,13 +15,6 @@
 		</value>
 	</Operation>
 
-	<Operation Class="PatchOperationReplace">		<!-- Upping cat bodysize so it could haul a bit  -->
-		<xpath>Defs/ThingDef[defName = "Cat"]/race/baseBodySize</xpath>
-		<value>
-			<baseBodySize>0.4</baseBodySize>
-		</value>
-	</Operation>
-
 	<Operation Class="PatchOperationAdd">		<!-- Chinchilla are herdAnimals  -->
 		<xpath>Defs/ThingDef[defName = "Chinchilla"]/race</xpath>
 		<value>
