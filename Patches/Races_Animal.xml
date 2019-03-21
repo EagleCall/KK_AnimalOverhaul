@@ -300,17 +300,6 @@
 		</operations>
 	</Operation>
 
-	<Operation Class="PatchOperationAdd">		<!-- Milkable Alpaca  -->
-		<xpath>Defs/ThingDef[defName = "Alpaca"]/comps</xpath>
-		<value>
-			<li Class="CompProperties_Milkable">
-				<milkDef>Milk</milkDef>
-				<milkIntervalDays>5</milkIntervalDays>
-				<milkAmount>6</milkAmount>
-			</li>
-		</value>
-	</Operation>
-
 	<Operation Class="PatchOperationConditional">		<!-- Milkable Deer  -->
 		<xpath>Defs/ThingDef[defName="Deer"]/comps</xpath>
 		<match Class="PatchOperationAdd">
