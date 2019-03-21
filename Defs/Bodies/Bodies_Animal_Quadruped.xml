@@ -123,9 +123,9 @@
 								<li>
 									<def>AnimalJaw</def>
 									<coverage>0.1</coverage>
-                  <groups>
-                    <li>Teeth</li>
-                  </groups>
+									<groups>
+										<li>Teeth</li>
+									</groups>
 								</li>
 							</parts>
 						</li>
@@ -314,9 +314,9 @@
 								<li>
 									<def>AnimalJaw</def>
 									<coverage>0.1</coverage>
-				  <groups>
-					<li>Teeth</li>
-				  </groups>
+									<groups>
+										<li>Teeth</li>
+									</groups>
 								</li>
 							</parts>
 						</li>
