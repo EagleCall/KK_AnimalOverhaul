@@ -5,7 +5,6 @@
 		<xpath>Defs/BiomeDef[defName = "AridShrubland"]/allowedPackAnimals</xpath>
 		<value>
 			<li>Rhinoceros</li>
-			<li>Alpaca</li>
 			<li>Bear_Grizzly</li>
 			<li>Ostrich</li>
 			<li>Cow</li>
@@ -31,7 +30,6 @@
 		<value>
 			<li>Rhinoceros</li>
 			<li>Elephant</li>
-			<li>Alpaca</li>
 			<li>Ostrich</li>
 		</value>
 	</Operation>
@@ -57,7 +55,6 @@
 			<li>Bear_Polar</li>
 			<li>Caribou</li>
 			<li>Elk</li>
-			<li>Ostrich</li>
 			<li>Warg</li>
 		</value>
 	</Operation>
@@ -70,7 +67,6 @@
 			<li>Bear_Polar</li>
 			<li>Caribou</li>
 			<li>Elk</li>
-			<li>Ostrich</li>
 			<li>Warg</li>
 		</value>
 	</Operation>
@@ -78,7 +74,6 @@
 	<Operation Class="PatchOperationAdd"> <!-- Add animals to IceSheet allowed PackAnimals -->
 		<xpath>Defs/BiomeDef[defName = "IceSheet"]/allowedPackAnimals</xpath>
 		<value>
-			<li>Alpaca</li>
 			<li>Bear_Polar</li>
 			<li>Caribou</li>
 			<li>Elk</li>
@@ -89,7 +84,6 @@
 	<Operation Class="PatchOperationAdd"> <!-- Add animals to SeaIce allowed PackAnimals -->
 		<xpath>Defs/BiomeDef[defName = "SeaIce"]/allowedPackAnimals</xpath>
 		<value>
-			<li>Alpaca</li>
 			<li>Bear_Polar</li>
 			<li>Caribou</li>
 		</value>
@@ -100,7 +94,6 @@
 		<value>
 			<li>Rhinoceros</li>
 			<li>Elephant</li>
-			<li>Alpaca</li>
 			<li>Bear_Grizzly</li>
 			<li>Bear_Polar</li>
 			<li>Caribou</li>
@@ -116,7 +109,6 @@
 		<value>
 			<li>Rhinoceros</li>
 			<li>Elephant</li>
-			<li>Alpaca</li>
 			<li>Bear_Grizzly</li>
 			<li>Bear_Polar</li>
 			<li>Caribou</li>
@@ -131,7 +123,6 @@
 		<xpath>Defs/BiomeDef[defName = "TropicalRainforest"]/allowedPackAnimals</xpath>
 		<value>
 			<li>Rhinoceros</li>
-			<li>Alpaca</li>
 			<li>Bear_Grizzly</li>
 			<li>Elk</li>
 			<li>Ostrich</li>
@@ -144,7 +135,6 @@
 		<xpath>Defs/BiomeDef[defName = "TropicalSwamp"]/allowedPackAnimals</xpath>
 		<value>
 			<li>Rhinoceros</li>
-			<li>Alpaca</li>
 			<li>Bear_Grizzly</li>
 			<li>Elk</li>
 			<li>Ostrich</li>
