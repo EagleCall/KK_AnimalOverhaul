@@ -36,6 +36,13 @@
 		</value>
 	</Operation>
 
+	<Operation Class="PatchOperationAdd">		<!-- Pack Deer  -->
+		<xpath>Defs/ThingDef[defName="Deer"]/race</xpath>
+		<value>
+			<packAnimal>true</packAnimal>
+		</value>
+	</Operation>
+
 	<Operation Class="PatchOperationAdd">		<!-- Pack Elk -->
 		<xpath>Defs/ThingDef[defName="Elk"]/race</xpath>
 		<value>
