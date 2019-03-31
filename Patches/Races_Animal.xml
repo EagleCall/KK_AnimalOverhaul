@@ -298,7 +298,7 @@
 		<value>
 			<li Class="CompProperties_Milkable">
 				<milkDef>Milk</milkDef>
-				<milkIntervalDays>2</milkIntervalDays>
+				<milkIntervalDays>5</milkIntervalDays>
 				<milkAmount>6</milkAmount>
 			</li>
 		</value>
