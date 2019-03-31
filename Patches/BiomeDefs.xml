@@ -143,5 +143,41 @@
 		</value>
 	</Operation>
 
+	<!-- Add Missing Wild Animals to Biomes -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BiomeDef[defName="AridShrubland"]/wildAnimals</xpath>
+		<value>
+			<Tortoise>0.7</Tortoise>
+			<Cobra>0.15</Cobra>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BiomeDef[defName="Desert"]/wildAnimals</xpath>
+		<value>
+			<Tortoise>1.2</Tortoise>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BiomeDef[defName="ExtremeDesert"]/wildAnimals</xpath>
+		<value>
+			<Tortoise>1.5</Tortoise>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BiomeDef[defName="TropicalRainforest"]/wildAnimals</xpath>
+		<value>
+			<Iguana>1</Iguana>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/BiomeDef[defName="TropicalSwamp"]/wildAnimals</xpath>
+		<value>
+			<Iguana>1</Iguana>
+		</value>
+	</Operation>
 
 </Patch>
