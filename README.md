@@ -4,6 +4,7 @@ My Credits:
 - kaptain_kavern for the original mod.
 - 🦉 owl for Westerado compatibility
 - Ludeon Forum user "Caffeine Zombie" for the original RimWorld v1.0 update
+- EagleCall for GitHub edits.
 
 
 _[Link to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1588681499)_
