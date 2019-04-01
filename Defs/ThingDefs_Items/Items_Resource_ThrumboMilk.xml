@@ -9,7 +9,7 @@
       <texPath>Item/ThrumboMilk</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
-	<stackLimit>25</stackLimit>
+    <stackLimit>25</stackLimit>
     <statBases>
       <Mass>0.5</Mass>
       <Nutrition>1</Nutrition>
@@ -18,7 +18,7 @@
     </statBases>
     <ingestible>
       <preferability>MealLavish</preferability>
-	  <tasteThought>AteLavishMeal</tasteThought>
+      <tasteThought>AteLavishMeal</tasteThought>
       <ingestEffect>EatVegetarian</ingestEffect>
       <ingestSound>Ingest_Beer</ingestSound>
       <outcomeDoers>
@@ -32,7 +32,7 @@
       <li>AnimalProductRaw</li>
     </thingCategories>
   </ThingDef>
-  
+
   <HediffDef>
     <defName>KKAO_ThrumboMilkNourish</defName>
     <hediffClass>HediffWithComps</hediffClass>
@@ -62,7 +62,7 @@
                 <offset>0.1</offset>
               </li>
           </capMods>
-		</li>
+        </li>
       </stages>
   </HediffDef>
 
