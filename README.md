@@ -11,6 +11,9 @@ _[Link to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=15886814
 
 _[Link to Ludeon](https://ludeon.com/forums/index.php?topic=47165.msg447419#msg447419)_
 
+# v1.0.7
+- Deer are now pack animals
+- EagleCall cleaned up textures, whitespace, increase Alpaca milk interval to 5 days.
 
 # v1.0.7
 - Giddy-Up! Add-on: Animal Saddles compatibility
